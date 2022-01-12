@@ -4,7 +4,7 @@ Extension of the quaternion-valued recurrent projection neural network (QRPNNs) 
 
 ## Usage
 
-First of all, call the QRPNN module using:
+First of all, call the module using:
 
 ```
 include("HyperRPNNs.jl")
