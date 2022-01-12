@@ -30,7 +30,7 @@ Examples of activation functions in the HyperRPNNs module include:
 ```
 HyperRPNNs.csign, HyperRPNNs.twincsign, and HyperRPNNs.SplitSign
 ```
-See the reference paper for details.
+See the following [work](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks) to find a similar usage and examples. 
 
 ### Hypercomplex-Valued Recurrent Projection Neural Networks
 
