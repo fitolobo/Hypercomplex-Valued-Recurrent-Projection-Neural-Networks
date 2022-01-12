@@ -16,7 +16,7 @@ Effective use of hypercomplex-valued RPNN models requires a bilinear form and an
 ```
 y = BilinearForm(U,x,Params)
 ```
-Here, N denotes the the length of the vectors while n is the dimension of the hypercomplex numbers. For example, n=2 for complex numbers and n=4 for quaternions. The output y is such that $y_i = \sum_{i=1}^N B(u_{ij},x_j)$, where B denotes the bilinar form. An example of the bilinear form is obtained using the command:
+Here, N denotes the the length of the vectors while n is the dimension of the hypercomplex numbers. For example, n=2 for complex numbers and n=4 for quaternions. The output y is such that y_i = \sum_{i=1}^N B(u_{ij},x_j), where B denotes the bilinar form. An example of the bilinear form is obtained using the command:
 ```
 BilinearForm = HyperRPNNs.LambdaInner
 ```
